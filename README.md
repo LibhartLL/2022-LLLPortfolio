@@ -30,12 +30,9 @@ React, npm, TailwindCSS, Node.js, CSS, HTML, JavaScript
 
 [![Google Drive User Routes](./assets/UserRoutes.jpg)](https://drive.google.com/file/d/1V-L3niqanH64Q-bpmjvb14BO66zSJFiS/view)
 
-* Google drive link to a video of the Thoughts Routes demonstration of this project:
-
-[![Google Drive Thoughts Routes](./assets/ThoughtRoutes.jpg)](https://drive.google.com/file/d/1YGSEA0Zz_TfuzYUApuiZ6d5OW86JG6x3/view)
 
 ### Deployed Application
-
+https://libhartll.github.io/2022-LLLPortfolio/
 
 
 ### License
@@ -48,7 +45,7 @@ Lindsay L Libhart
 Libhartinc@gmail.com
 
 This projects GitHub Repository is:
-
+https://github.com/LibhartLL/2022-LLLPortfolio
 
 The Developers GitHub is:
 https://github.com/LibhartLL
