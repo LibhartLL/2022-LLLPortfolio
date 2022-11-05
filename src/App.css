@@ -1,0 +1,18 @@
+html {
+    background: rgb(207, 207, 237);
+    background: linear-gradient(
+      90deg,
+      rgb(209, 177, 226) 15%,
+      rgb(133, 207, 228) 100%,
+      rgb(119, 204, 214) 100%
+    );
+  }
+  body {
+    background: rgb(207, 207, 237);
+    background: linear-gradient(
+      90deg,
+      rgb(209, 177, 226) 15%,
+      rgb(133, 207, 228) 100%,
+      rgb(119, 204, 214) 100%
+    );
+  }
