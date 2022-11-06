@@ -23,7 +23,7 @@ $npm i
 $npm run build
 $npm start
 ### Technologies:
-React, npm, TailwindCSS, Node.js, CSS, HTML, JavaScript
+React, npm, Node.js, CSS, HTML, JavaScript
 ### Screenshots or Video Files:
 
 * Google drive link to a video of the User Routes demonstration of this project:

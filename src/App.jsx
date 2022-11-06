@@ -20,6 +20,8 @@ function App() {
         <Route path="/skills" component={Skills} />
         <Route path="/education" component={Education} />
         <Route path="/contacts" component={Contacts} />
+        
+
       </Switch>
     </>
   );

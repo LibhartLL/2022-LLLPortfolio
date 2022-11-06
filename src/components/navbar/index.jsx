@@ -26,6 +26,7 @@ import {
   import Footer from '../footer';
   import { useStyles } from './styles/navbar';
   
+  
   const menuItems = [
     {
       listIcon: <Home />,
@@ -76,7 +77,7 @@ import {
       >
         <Avatar
           className={classes.myImage}
-          src="/images/myImage.png"
+          src="/src/images/myimage.png"
           alt="Lindsay L. Libhart"
         />
         <Divider />
