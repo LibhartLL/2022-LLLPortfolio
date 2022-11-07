@@ -13,10 +13,11 @@ const Hero = () => {
       <Grid container justify="center">
         <Avatar
           className={classes.avater}
-          src={heroInfo.image}
+          src={heroInfo.img}
           alt={heroInfo.name}
         />
       </Grid>
+
       <Typography className={classes.title} variant="h4">
         <Typed strings={[heroInfo.name]} typeSpeed={100}/>
       </Typography>

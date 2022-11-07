@@ -3,7 +3,7 @@ import { GitHub, LinkedIn } from '@material-ui/icons';
 
 export const heroInfo = {
   name: 'Lindsay L. Libhart',
-  image: '/src/images/myimage.png',
+  img: './images/myimage.png',
   description: 'A proven visionary and strategic leader that translates business strategies into maximum profits commensurate with the best interest of customers, co-workers, vendors, and clients. An expert in enhancing profitability; reducing over-head; streamlining daily work process. Very knowledgeable of most Microsoft applications, Mac OS, QuickBooks, Social Media Marketing, and Entry Level Software Development. A proven track record of quickly learning any computer programs or work processes with little or no human error. Dedicated to maintaining a reputation built on quality, service, and uncompromising ethics.',
   title: [
     'Full Stack Developer',
