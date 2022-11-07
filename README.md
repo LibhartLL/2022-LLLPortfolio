@@ -26,11 +26,11 @@ $npm start
 React, npm, Node.js, CSS, HTML, JavaScript
 ### Screenshots or Video Files:
 
-![Screenshot](/images/screenshotone.jpg),
+![Screenshot](./images/screenshotone.jpg),
 
-![Screenshot](/images/screenshottwo.jpg),
+![Screenshot](./images/screenshottwo.jpg),
 
-![Screenshot](/images/screenshotthree.jpg),
+![Screenshot](./images/screenshotthree.jpg),
 
 
 ### Deployed Application
